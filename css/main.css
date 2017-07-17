@@ -1,0 +1,12 @@
+p:hover {
+    background-color    : royalblue;
+    color               : white;
+    padding             : 20px;
+
+}
+
+p {
+    padding : 10px;
+    transition-property : padding, color, background-color;
+    transition-duration : 1s;
+}
